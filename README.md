@@ -1,5 +1,8 @@
 # Magic Box: Multi-Sensor Finite-State Puzzle & Lock Box
 
+
+[![Firmware CI](https://github.com/ParthDalakoti/magic-box-interactive-controller/actions/workflows/firmware-ci.yml/badge.svg)](https://github.com/ParthDalakoti/magic-box-interactive-controller/actions) [![Wokwi Simulation](https://img.shields.io/badge/Simulation-Wokwi_Virtual_Lab-00B4D8.svg?style=for-the-badge&logo=espressif)](https://wokwi.com)
+
 [![Microcontroller](https://img.shields.io/badge/MCU-Arduino_Uno-E7352C.svg?style=for-the-badge)](https://www.espressif.com/)
 [![Protocols](https://img.shields.io/badge/Protocols-Finite_State_Machine,_Servo_Lock,_Sensors-blue.svg?style=for-the-badge)]()
 [![Status](https://img.shields.io/badge/Status-Tested_%26_Verified-success.svg?style=for-the-badge)]()
@@ -50,3 +53,10 @@ graph LR
 *B.Tech in Electronics & Communication Engineering (2023–2027)*  
 *Graphic Era Hill University (GEHU), Bhimtal Campus*  
 *Contact:* `parthdalakoti482@gmail.com` • [GitHub Profile](https://github.com/ParthDalakoti)
+
+---
+
+## 📸 Hardware Bench Test Photos
+
+![Hardware Prototype Setup](media/hardware_demo_1.jpg)
+
